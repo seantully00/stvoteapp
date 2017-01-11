@@ -15,6 +15,7 @@ class App extends Component {
         </p>
         <br></br>
         <button>Login</button>
+        <button>Find a Poll</button>
       </div>
     );
   }
