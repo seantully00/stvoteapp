@@ -13,6 +13,8 @@ class App extends Component {
         <p className="App-intro">
           Votejere!
         </p>
+        <br></br>
+        <button>Login</button>
       </div>
     );
   }
