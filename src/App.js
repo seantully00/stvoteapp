@@ -14,9 +14,9 @@ class App extends Component {
           Votejere!
         </p>
         <br></br>
-        <button onClick={login}>Login</button>
-        <button onClick={findpoll}>Find a Poll</button>
-      </div>
+      <button>Login</button>
+        <button>Find a Poll</button>
+      </div>q
     );
   }
 }
