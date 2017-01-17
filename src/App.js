@@ -16,7 +16,7 @@ class App extends Component {
         <br></br>
       <button>Login</button>
         <button>Find a Poll</button>
-      </div>q
+      </div>
     );
   }
 }
